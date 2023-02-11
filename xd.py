@@ -1,4 +1,4 @@
 import os
-os.system('gitpull')
+os.system('git pull')
 import hamii
   
