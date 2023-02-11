@@ -1,4 +1,6 @@
 import os
 os.system('git pull')
-import hamii
+print('[•] wait bro for 0.3 updste ')
+print('[•] facebook on update')
+exit()
   
